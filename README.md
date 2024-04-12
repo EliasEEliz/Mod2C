@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 02 Advanced CSS: Portfolio
 
 ## Your Task
@@ -104,3 +105,7 @@ You are required to submit BOTH of the following for review:
 
 - - -
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+=======
+# Mod2C
+Module 2 Challenge
+>>>>>>> b7e24bbdded15ceb59339cf65d93f186506e8dc6
